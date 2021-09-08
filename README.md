@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Hi It's Bay!
 
-You can use the [editor on GitHub](https://github.com/Baydewey4/Bay-Dewey/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My roomate and I started an addiction that could be worse. Over the year we have learned some techiques and strategies to keep the indoor plants alive during winter at James Madison University since it is typically cold, low hunitity, and low light.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tips for indoor plant beginners  
 
-### Markdown
+Before buying a plant, make sure you have the following:
+1. Good lighting:
+Plants need sunlight to survive. Make sure you have a designated area where there is visible and constant sunlight for your plant before buying one. I recomment putting the plant near a window. That means you have to remember to open your blinds everyday! If you choose to locate the plant in a different area, make sure every so often you move it to a sunny area for a couple hours everyday to every other day. Lastly, roate your plants weekly or else the plants will lean towards the sun. 
+      
+2. Watering: Beginners typically think that you water your plants based off a schedule. This is not the case. Each plant is very different and needs its own special attention. To know when you should water your plants, check the soil. If the first one to two inches feels dry, it is time to water! Each plant needs a certain amount of water based off the type of plant, size, amount of sunlight, and environment. With that being said, I recommend keeping all of your plants in a pot with holes at the bottom to filter our excess water. Then you can set the plant in a bucket of water and it will absorb as much as it needs naturally. Make sure it is purified/clean water so it does not get a disease and die. Overtime you will get fimiliar with each plants routine and it will get much simpler! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. Fertilizer/Food: Plants need more than just water and lighting. Once you buy your plant, every three months you need to change the potting soil and add a big pinch of fertilizer on the top layer of the soil. Also, to give your plants more minerals to thrive you can buy plant food that you mix in your water when watering. I have created my own food by putting banana peels in a large mason jar full of water. I let it fermentate for a couple of days and add it to my planting water.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Baydewey4/Bay-Dewey/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

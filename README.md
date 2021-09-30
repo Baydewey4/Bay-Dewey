@@ -1,7 +1,7 @@
 ## Hi It's Bay!
 
 My roomate and I started an addiction that could be worse. Over the year we have learned some techiques and strategies to keep the indoor plants alive during winter at James Madison University since it is typically cold, low hunitity, and low light.
-[IMG_1807.zip](https://github.com/Baydewey4/Bay-Dewey/files/7260613/IMG_1807.zip)
+[plants on my deck](deckplants.jpeg)
 
 ### Tips for indoor plant beginners  
 

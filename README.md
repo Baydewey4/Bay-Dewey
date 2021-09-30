@@ -1,6 +1,7 @@
 ## Hi It's Bay!
 
 My roomate and I started an addiction that could be worse. Over the year we have learned some techiques and strategies to keep the indoor plants alive during winter at James Madison University since it is typically cold, low hunitity, and low light.
+[IMG_1807.zip](https://github.com/Baydewey4/Bay-Dewey/files/7260613/IMG_1807.zip)
 
 ### Tips for indoor plant beginners  
 
@@ -17,3 +18,4 @@ Plants need sunlight to survive. Make sure you have a designated area where ther
 5. Temperature: I know you might feel comfortable with the temperature of your home but your plant may not. When you get in bed at night do you crave the crisp cold so you can bundle up in your sheets? Well so do plants. You might not know, but plants do not like a constant temperature. During they day they prefer warm temperatures around 70-78 degrees, but, at night they like to rest just like us. I like to call this there bedtime. Before bed turn down the temperature a notch or two so the plant can relax. Another way to think of it is thinking about outdoor plants. During the day it gets warmer and at night it begins to cool. It is there natural way of living and most plants are accustomed to this process, even indoor plants. Keep in mind, though, that during the winter windows tend to let in cold temperatures. Move the plants away from it during extreme cold weather.
 
 6. Soil: Soil is a little tricky. At first I would buy basic, universal potting soil from the store but noticed my plants werent getting enough aeration. The best type of potting soil will include peat moss, ground pine bark, perlite, and fertilizer. I tend to buy the organic soil to avoid chemicals and pesticides. Also, at the store you will notice that there are soils specific to certain plants. For example, succulents and cactus require little water so the soil does not need things like moss to keep in more moisture. 
+[IMG_1811.zip](https://github.com/Baydewey4/Bay-Dewey/files/7260603/IMG_1811.zip)
